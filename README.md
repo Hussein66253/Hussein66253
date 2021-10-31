@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hussein66253&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hussein66253&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
