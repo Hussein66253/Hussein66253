@@ -1,4 +1,4 @@
-### Hello! I'm Maithreyan 🙌
+### Hello! I'm Hussein 🙌
 <img align="right" alt="GIF" src="https://github.com/Maithreyan11/Maithreyan11/blob/main/coding-freak.gif?raw=true" width="468.75" height="300" />
 
 
