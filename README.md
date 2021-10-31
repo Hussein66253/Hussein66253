@@ -6,10 +6,10 @@
 <!--  &nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/maithreyan_s)&nbsp; -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hussein-almohamd/)
 
-- 🔭 I’m currently working on my Course<br><br>
-- 🌱 I’m currently learning Machine Learning<br><br>
+- 🔭 I’m currently working as teacher assistant<br><br>
+- 🌱 I’m currently learning Python and ASP .net core g<br><br>
 - 👯 I’m looking to collaborate with dreamers <br><br>
-- ⚡ Fun fact: ...I am a weeb!!!<br><br><br><br>
+- ⚡ Fun fact: ......!!!<br><br><br><br>
 
 <!---
 Hussein66253/Hussein66253 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
