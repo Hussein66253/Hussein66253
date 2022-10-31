@@ -5,8 +5,7 @@
 <!--  &nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/maithreyan_s)&nbsp; -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hussein-almohamd/)
 
-- 🔭 I’m currently working as teacher assistant<br><br>
-- 🌱 I’m currently learning Python and ASP .net core <br><br>
+- 🔭 I’m currently working as Full Stack web Developer<br><br>
 - 👯 I’m looking to collaborate with dreamers <br><br>
 - ⚡ Fun fact: ......!!!<br><br><br><br>
 
