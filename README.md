@@ -1,16 +1,10 @@
 ### Hello! I'm Hussein 🙌
 <img align="right" alt="GIF" src="https://github.com/Maithreyan11/Maithreyan11/blob/main/coding-freak.gif?raw=true" width="468.75" height="300" />
 
-# Full-Stack Web Development Hub  
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap,nodejs,express,jquery,mongodb,postman,postgresql)](https://skillicons.dev)
-
----
-
 <!--  &nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/maithreyan_s)&nbsp; -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hussein-almohamd/)
 
-- 🔭 I’m currently working as Full Stack web Developer<br><br>
+- 🔭 I’m currently working as a Full Stack web Developer<br><br>
 - 👯 I’m looking to collaborate with dreamers <br><br>
 - ⚡ Fun fact: ......!!!<br><br><br><br>
 
@@ -21,6 +15,10 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussien-LTS&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+
+# Full-Stack Web Development Hub  
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap,nodejs,express,jquery,mongodb,postman,postgresql)](https://skillicons.dev)
 
 
 
