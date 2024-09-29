@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 # Full-Stack Web Development  
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap,nodejs,express,jquery,mongodb,postman,PostgreSQL,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap,nodejs,express,jquery,mongodb,postman,PostgreSQL)](https://skillicons.dev)
 
 
 
